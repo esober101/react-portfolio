@@ -12,7 +12,7 @@ function App() {
       <Nav />
       <Switch>
         <Route component={Home} path='/' exact />
-        <Route component={Portfolio} path='/pages' />
+        <Route component={Portfolio} path='/portfolio' exact />
       </Switch>
       <Figure />
       <Footer />

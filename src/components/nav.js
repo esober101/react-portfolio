@@ -16,7 +16,7 @@ class Nav extends React.Component {
                   <NavLink to="/" className="nav-link" >About |</NavLink>
                 </li>
                 <li className="nav-item">
-                  <NavLink to="/pages" className="nav-link" >Portfolio</NavLink>
+                  <NavLink to="/portfolio" className="nav-link" >Portfolio</NavLink>
                 </li>
               </ul>
             </div>
