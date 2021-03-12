@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { HashRouter, Route, Switch } from 'react-router-dom';
 import React from 'react';
 import Nav from './components/nav';
 import Home from './pages/home';
@@ -8,7 +8,7 @@ import Footer from './components/footer';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Nav />
       <Switch>
         <Route component={Home} path='/' exact />
@@ -16,7 +16,7 @@ function App() {
       </Switch>
       <Figure />
       <Footer />
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
