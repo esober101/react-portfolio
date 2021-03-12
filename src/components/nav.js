@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from "react-router-dom";
-
+import "../style.css";
 
 class Nav extends React.Component {
     render() {
@@ -13,10 +13,10 @@ class Nav extends React.Component {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
               <ul className="nav navbar-nav ml-auto">
                 <li className="nav-item">
-                  <NavLink to="/" className="nav-link" href="index.html">About |</NavLink>
+                  <NavLink to="/" className="nav-link" >About |</NavLink>
                 </li>
                 <li className="nav-item">
-                  <NavLink to="/pages" className="nav-link" href="pages/portfolio.html">Portfolio</NavLink>
+                  <NavLink to="/pages" className="nav-link" >Portfolio</NavLink>
                 </li>
               </ul>
             </div>
