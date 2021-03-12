@@ -1,4 +1,7 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import React from 'react';
+import "../style.css";
+import mypicture from "../images/mypicture.jpg";
 
 class Home extends React.Component {
     render() {
@@ -12,7 +15,7 @@ class Home extends React.Component {
                   </div>
                 </div>    
                 <div className="col-md-12">
-                  <img src="images/mypicture.jpg" alt="my picture" className="img-thumbnail float-left" />
+                  <img src={mypicture} alt="my picture" className="img-thumbnail float-left" />
                   <p>
                     Hello! My name is Eric. I graduated with a degree in business from 
                     Cincinnati State Technical and Community College in Cincinnati, Ohio.
