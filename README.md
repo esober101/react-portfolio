@@ -1,24 +1,29 @@
-# React Portfolio
+<h1 align="center"> React Portfolio </h1>
 
-## Overview
+![badge](https://img.shields.io/badge/license-MIT-blue)
 
-Updated my portfolio using React.
+## Table of Contents
+- [Description](#description)
+- [Installation](#install)
+- [Deployment](#deployed) 
+- [Screenshot](#screenshot)
+- [License](#license)
+- [Questions](#questions)
 
-## URLs
+## Description
+Portfolio updated with React.
 
-https://github.com/esober101/react-portfolio/
+## Deployed Site
+https://esober101.github.io/react-portfolio/
 
-## Screenshots
+## Screenshot
+![Screenshot](src/images/about.jpg "Screenshot")
+![Screenshot](src/images/portfolio.jpg "Screenshot")
 
-![Screenshot](public/images/about.jpg "Screenshot")
-![Screenshot](public/images/portfolio.jpg "Screenshot")
+## License
+![badge](https://img.shields.io/badge/license-MIT-blue)
 
-## MIT License
+## Questions
+Github: https://github.com/esober101
 
-Copyright (c) [2020] [Eric Ober]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Email: ericscottober@gmail.com
